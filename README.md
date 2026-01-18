@@ -41,4 +41,18 @@ Results are piped into a responsive charting engine that automatically selects t
 ---
 
 ## 🎨 Design Philosophy
-P
+PaddockPulse features a **"Carbon Fiber" UI** designed for the high-pressure environment of a race weekend:
+* **F1 Aesthetics:** High-contrast racing colors (Ferrari Red, Mercedes Cyan, etc.) ensure data is readable at a glance.
+* **Conclusion Matrix:** Beyond raw charts, the UI provides a data-backed narrative on *why* specific performance trends occurred.
+
+---
+
+> **Note:** PaddockPulse AI is designed for research and simulation purposes, leveraging the deep internal knowledge of LLMs to bridge the gap between raw telemetry and actionable insights.
+
+---
+
+## 🚀 Getting Started
+1. Select your **Season** and **Grand Prix**.
+2. Use the **Editor** to define your analysis (or use the AI Auto-complete).
+3. Click **Execute** to run the Virtual Kernel.
+4. Review your **Telemetry Charts** and **ML Insights**.
