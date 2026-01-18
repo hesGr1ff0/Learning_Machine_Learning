@@ -1,0 +1,6 @@
+
+{
+  "name": "PaddockPulse AI: F1 Data Science Lab",
+  "description": "An interactive Formula 1 data manipulator and ML sandbox using FastF1 logic. Tinker with telemetry, test hypotheses, and generate AI-driven insights through a simulated Python ML environment.",
+  "requestFramePermissions": []
+}
